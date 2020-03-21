@@ -1,5 +1,5 @@
 //Time complexity: O(max(len1,len2))
-//Space complexity: O(max(len1, len2))
+//Space complexity: O(1)
 
 /**
  * Definition for singly-linked list.
