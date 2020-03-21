@@ -1,6 +1,8 @@
 //Time complexity: O(N**3)
 //Space complexity: O(N) - stack space due to recursion
 
+//Double is a hack. The better approach would be to represent number as string and have additional method for string addition.
+
 class Solution {
     public boolean isAdditiveNumber(String num) {
         int len = num.length();
