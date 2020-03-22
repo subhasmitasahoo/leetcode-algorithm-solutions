@@ -38,7 +38,7 @@ class Solution {
         
         seen.add(s);
         
-        //Explore all the paths from the current source. If in any of the paths, we         don't reach the destination retun false. 
+        //Explore all the paths from the current source. If in any of the paths, we don't reach the destination retun false. 
         for(int n: nei) {
             System.out.println(s+" "+n);
             if(!DFS(n, d, seen)) {
