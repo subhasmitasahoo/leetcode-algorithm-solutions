@@ -13,7 +13,10 @@ class Solution {
             }
             res.computeIfAbsent(reservedSeats[i][0], x -> new HashSet()).add(reservedSeats[i][1]);
         }
+        
+        //Important -> saves time
         ans += (n-res.size())*2;
+        
         for(int i: res.keySet()) {
             Set<Integer> temp = res.get(i);
             if(!temp.contains(2) && !temp.contains(3)  && !temp.contains(4)  && !temp.contains(5)) {
