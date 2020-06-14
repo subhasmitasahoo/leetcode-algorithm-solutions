@@ -1,3 +1,8 @@
+# Problem link: https://leetcode.com/problems/meeting-scheduler/
+
+# Time complexity: O(mlogm + nlogn)
+# Space complexity: O(1)
+
 class Solution:
     def minAvailableDuration(self, slots1: List[List[int]], slots2: List[List[int]], duration: int) -> List[int]:
         len1 = len(slots1)
