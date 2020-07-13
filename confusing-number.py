@@ -1,3 +1,7 @@
+#Problem link: https://leetcode.com/problems/confusing-number/
+#Time complexity: O(len(number))
+#Space complexity: O(len(number))
+
 class Solution:
     def confusingNumber(self, N: int) -> bool:
         reflect = {0:0,1:1,6:9,8:8,9:6}
