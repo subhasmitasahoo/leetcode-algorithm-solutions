@@ -10,4 +10,4 @@ Please feel free to go through the solutions and help in improving this reposito
 
 ### Few tricky algorithms links
 
-1. <a href="https://stackoverflow.com/questions/57748988/kasai-algorithm-for-constructing-lcp-array-practical-example"> Kasai's algotithm for constructing LCP arraay from Suffix array </a>
+1. <a href="https://stackoverflow.com/questions/57748988/kasai-algorithm-for-constructing-lcp-array-practical-example"> Kasai's algotithm for constructing LCP array from Suffix array </a>
