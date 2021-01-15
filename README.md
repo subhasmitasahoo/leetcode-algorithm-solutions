@@ -8,6 +8,6 @@ Please feel free to go through the solutions and help in improving this reposito
 
 1. 
 
-### Few important algorithms links
+### Few tricky algorithms links
 
 1. <a href="https://stackoverflow.com/questions/57748988/kasai-algorithm-for-constructing-lcp-array-practical-example"> Kasai's algotithm for constructing LCP arraay from Suffix array </a>
